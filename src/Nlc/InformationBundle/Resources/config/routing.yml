@@ -1,0 +1,3 @@
+nlc_information_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: NlcInformationBundle:Default:index }
